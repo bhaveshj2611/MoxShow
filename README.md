@@ -1,16 +1,12 @@
-# moxshow
+# Moxshow
 
-A new Flutter project.
+MoxShow is a comprehensive movie and TV shows guide app that aims to bring all the information and insights about cinema right to you.
+User can explore a vast variety of genres, from trending movies to top-rated shows, now playing films, and upcoming releases.
+From plot summaries and age ratings to release dates and cast descriptions, all these details are displayed on the movie screen.
+Powered by the TMDB API, MoxShow delivers personalized recommendations and suggests similar movies based on the currently selected movie.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+GitHub Repo - 
+- [Contact me](https://linkedin.com/in/bhavesh-joshi-)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Logo Designed using 
