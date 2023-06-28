@@ -5,7 +5,7 @@ User can explore a vast variety of genres, from trending movies to top-rated sho
 From plot summaries and age ratings to release dates and cast descriptions, all these details are displayed on the movie screen.
 Powered by the TMDB API, MoxShow delivers personalized recommendations and suggests similar movies based on the currently selected movie.
 
-![Alt Text](./readme_images/Screenshot_2023-06-28-21-23-18-408_com.example.moxshow.jpg)
+![Alt Text](./readme_images/Screenshot_2023-06-28-21-23-18-408_com.example.moxshow.jpg){:height="500" width="200"}
 
 GitHub Repo - 
 - [Contact me](https://linkedin.com/in/bhavesh-joshi-)
